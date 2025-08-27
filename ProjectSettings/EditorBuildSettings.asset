@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Oversight Support.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/DT_TPE_RG Building.unity
+    guid: 048f82b8ce5e35a4487fda593384feb7
+  - enabled: 0
+    path: Assets/Scenes/Cesium Test.unity
+    guid: 9492f0c0e483b714f9b2334820047f94
+  m_configObjects:
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: a4a4fd983b4145f49bbc1c23c8502d0a, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 01e7a48c487f8dd4eb4056141196d3ac, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 91b8df037e612654b8ee46edad6d589e, type: 2}

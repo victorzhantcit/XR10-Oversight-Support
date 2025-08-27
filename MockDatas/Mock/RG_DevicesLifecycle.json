@@ -1,0 +1,2299 @@
+
+{
+    "repairOrders": [
+        {
+            "recordSn": "R20240319001",
+            "staff": "TCIT",
+            "date": "2024-03-19",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "派員修理",
+            "status": "Changed"
+        },
+        {
+            "recordSn": "R20240328001",
+            "staff": "TCIT",
+            "date": "2024-03-28",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "找廠商維修",
+            "status": "Changed"
+        },
+        {
+            "recordSn": "R20240903001",
+            "staff": "TCIT2024",
+            "date": "2024-09-11",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "123",
+            "status": "Changed"
+        },
+        {
+            "recordSn": "R20241231001",
+            "staff": "TCIT2024",
+            "date": "2024-12-31",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "測試",
+            "status": "Changed"
+        }
+    ],
+    "inpsOrders": [
+        {
+            "recordSn": "I20230306001",
+            "staff": null,
+            "date": "2023-03-06",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "發電機無載測試及檢查、保養、清潔",
+            "status": "Pending"
+        },
+        {
+            "recordSn": "I20230410001",
+            "staff": null,
+            "date": "2023-04-10",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "發電機無載測試及檢查、保養、清潔",
+            "status": "Pending"
+        },
+        {
+            "recordSn": "I20230515001",
+            "staff": null,
+            "date": "2023-05-15",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "發電機無載測試及檢查、保養、清潔",
+            "status": "Pending"
+        },
+        {
+            "recordSn": "I20230619001",
+            "staff": null,
+            "date": "2023-06-19",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "發電機無載測試及檢查、保養、清潔",
+            "status": "Pending"
+        },
+        {
+            "recordSn": "I20230710001",
+            "staff": null,
+            "date": "2023-07-10",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "發電機無載測試及檢查、保養、清潔",
+            "status": "Pending"
+        },
+        {
+            "recordSn": "I20230814001",
+            "staff": null,
+            "date": "2023-08-14",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "發電機無載測試及檢查、保養、清潔",
+            "status": "Pending"
+        },
+        {
+            "recordSn": "I20230918001",
+            "staff": null,
+            "date": "2023-09-18",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "發電機無載測試及檢查、保養、清潔",
+            "status": "Pending"
+        },
+        {
+            "recordSn": "I20231002001",
+            "staff": null,
+            "date": "2023-10-02",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "發電機無載測試及檢查、保養、清潔",
+            "status": "Pending"
+        },
+        {
+            "recordSn": "I20231106001",
+            "staff": null,
+            "date": "2023-11-06",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "發電機無載測試及檢查、保養、清潔",
+            "status": "Pending"
+        },
+        {
+            "recordSn": "I20231211001",
+            "staff": null,
+            "date": "2023-12-11",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "發電機無載測試及檢查、保養、清潔",
+            "status": "Pending"
+        },
+        {
+            "recordSn": "I20240205001",
+            "staff": null,
+            "date": "2024-02-05",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "發電機無載測試及檢查、保養、清潔",
+            "status": "Pending"
+        },
+        {
+            "recordSn": "I20240311001",
+            "staff": null,
+            "date": "2024-03-11",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "發電機無載測試及檢查、保養、清潔",
+            "status": "Pending"
+        },
+        {
+            "recordSn": "I20240317001",
+            "staff": "insp01",
+            "date": "2024-03-19",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240317001",
+            "staff": "insp01",
+            "date": "2024-03-19",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "風扇皮帶待更換",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240328001",
+            "staff": "insp01",
+            "date": "2024-03-28",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240328001",
+            "staff": "insp01",
+            "date": "2024-03-28",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240407001",
+            "staff": "insp01",
+            "date": "2024-03-28",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240407001",
+            "staff": "insp01",
+            "date": "2024-03-28",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "油位低於2000",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240415001",
+            "staff": null,
+            "date": "2024-04-15",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "發電機無載測試及檢查、保養、清潔",
+            "status": "Pending"
+        },
+        {
+            "recordSn": "I20240505001",
+            "staff": null,
+            "date": "2024-05-05",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "發電機每月檢查",
+            "status": "Pending"
+        },
+        {
+            "recordSn": "I20240518001",
+            "staff": null,
+            "date": "2024-05-18",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "測試",
+            "status": "Pending"
+        },
+        {
+            "recordSn": "I20240527001",
+            "staff": null,
+            "date": "2024-05-27",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "發電機無載測試及檢查、保養、清潔",
+            "status": "Pending"
+        },
+        {
+            "recordSn": "I20240729001",
+            "staff": null,
+            "date": "2024-07-29",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "發電機無載測試及檢查、保養、清潔",
+            "status": "Pending"
+        },
+        {
+            "recordSn": "I20240602001",
+            "staff": "insp01",
+            "date": "2024-09-02",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240909001",
+            "staff": null,
+            "date": "2024-09-09",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "發電機無載測試及檢查、保養、清潔",
+            "status": "Pending"
+        },
+        {
+            "recordSn": "I20240714001",
+            "staff": "insp01",
+            "date": "2024-09-11",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240714001",
+            "staff": "insp01",
+            "date": "2024-09-11",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240811002",
+            "staff": "insp01",
+            "date": "2024-09-18",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240811002",
+            "staff": "insp01",
+            "date": "2024-09-18",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "OK",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240908001",
+            "staff": "insp01",
+            "date": "2024-09-25",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240908001",
+            "staff": "insp01",
+            "date": "2024-09-26",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "OK",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20241007001",
+            "staff": null,
+            "date": "2024-10-07",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "發電機無載測試及檢查、保養、清潔",
+            "status": "Pending"
+        },
+        {
+            "recordSn": "I20241103002",
+            "staff": null,
+            "date": "2024-11-03",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "發電機每月檢查",
+            "status": "Pending"
+        },
+        {
+            "recordSn": "I20241117001",
+            "staff": null,
+            "date": "2024-11-17",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "發電機每月檢查",
+            "status": "Pending"
+        },
+        {
+            "recordSn": "I20241125001",
+            "staff": null,
+            "date": "2024-11-25",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "發電機無載測試及檢查、保養、清潔",
+            "status": "Pending"
+        },
+        {
+            "recordSn": "I20241201001",
+            "staff": null,
+            "date": "2024-12-01",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "發電機每月檢查",
+            "status": "Pending"
+        },
+        {
+            "recordSn": "I20240926001",
+            "staff": "insp01",
+            "date": "2024-12-06",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240926001",
+            "staff": "insp01",
+            "date": "2024-12-06",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "test",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20230117001",
+            "staff": null,
+            "date": "2023-01-17",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "空調冷卻水塔清洗(含減速機加黃油)",
+            "status": "Pending"
+        },
+        {
+            "recordSn": "I20230123001",
+            "staff": null,
+            "date": "2023-01-23",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "空調回風濾網清洗及出風口清潔",
+            "status": "Pending"
+        },
+        {
+            "recordSn": "I20230220001",
+            "staff": null,
+            "date": "2023-02-20",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "空調冷卻水塔清洗(含減速機加黃油)",
+            "status": "Pending"
+        },
+        {
+            "recordSn": "I20230227001",
+            "staff": null,
+            "date": "2023-02-27",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "空調回風濾網清洗及出風口清潔",
+            "status": "Pending"
+        },
+        {
+            "recordSn": "I20230313001",
+            "staff": null,
+            "date": "2023-03-13",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "冰水主機清潔、冷卻水泵浦保養檢查(含加油)",
+            "status": "Pending"
+        },
+        {
+            "recordSn": "I20230320001",
+            "staff": null,
+            "date": "2023-03-20",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "空調冷卻水塔清洗(含減速機加黃油)",
+            "status": "Pending"
+        },
+        {
+            "recordSn": "I20230327001",
+            "staff": null,
+            "date": "2023-03-27",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "空調回風濾網清洗及出風口清潔",
+            "status": "Pending"
+        },
+        {
+            "recordSn": "I20230417001",
+            "staff": null,
+            "date": "2023-04-17",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "冰水主機清潔、冷卻水泵浦保養檢查(含加油)",
+            "status": "Pending"
+        },
+        {
+            "recordSn": "I20230424001",
+            "staff": null,
+            "date": "2023-04-24",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "空調冷卻水塔清洗(含減速機加黃油)",
+            "status": "Pending"
+        },
+        {
+            "recordSn": "I20230501001",
+            "staff": null,
+            "date": "2023-05-01",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "空調回風濾網清洗及出風口清潔",
+            "status": "Pending"
+        },
+        {
+            "recordSn": "I20230522001",
+            "staff": null,
+            "date": "2023-05-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "冰水主機清潔、冷卻水泵浦保養檢查(含加油)",
+            "status": "Pending"
+        },
+        {
+            "recordSn": "I20230529001",
+            "staff": null,
+            "date": "2023-05-29",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "空調冷卻水塔清洗(含減速機加黃油)",
+            "status": "Pending"
+        },
+        {
+            "recordSn": "I20230605001",
+            "staff": null,
+            "date": "2023-06-05",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "空調回風濾網清洗及出風口清潔",
+            "status": "Pending"
+        },
+        {
+            "recordSn": "I20230626001",
+            "staff": null,
+            "date": "2023-06-26",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "冰水主機清潔、冷卻水泵浦保養檢查(含加油)",
+            "status": "Pending"
+        },
+        {
+            "recordSn": "I20230717001",
+            "staff": null,
+            "date": "2023-07-17",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "冰水主機清潔、冷卻水泵浦保養檢查(含加油)",
+            "status": "Pending"
+        },
+        {
+            "recordSn": "I20230724001",
+            "staff": null,
+            "date": "2023-07-24",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "空調冷卻水塔清洗(含減速機加黃油)",
+            "status": "Pending"
+        },
+        {
+            "recordSn": "I20230731001",
+            "staff": null,
+            "date": "2023-07-31",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "空調回風濾網清洗及出風口清潔",
+            "status": "Pending"
+        },
+        {
+            "recordSn": "I20230821001",
+            "staff": null,
+            "date": "2023-08-21",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "冰水主機清潔、冷卻水泵浦保養檢查(含加油)",
+            "status": "Pending"
+        },
+        {
+            "recordSn": "I20230828001",
+            "staff": null,
+            "date": "2023-08-28",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "空調冷卻水塔清洗(含減速機加黃油)",
+            "status": "Pending"
+        },
+        {
+            "recordSn": "I20230904001",
+            "staff": null,
+            "date": "2023-09-04",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "空調回風濾網清洗及出風口清潔",
+            "status": "Pending"
+        },
+        {
+            "recordSn": "I20230925001",
+            "staff": null,
+            "date": "2023-09-25",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "冰水主機清潔、冷卻水泵浦保養檢查(含加油)",
+            "status": "Pending"
+        },
+        {
+            "recordSn": "I20231009001",
+            "staff": null,
+            "date": "2023-10-09",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "冰水主機清潔、冷卻水泵浦保養檢查(含加油)",
+            "status": "Pending"
+        },
+        {
+            "recordSn": "I20231016001",
+            "staff": null,
+            "date": "2023-10-16",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "空調冷卻水塔清洗(含減速機加黃油)",
+            "status": "Pending"
+        },
+        {
+            "recordSn": "I20231023001",
+            "staff": null,
+            "date": "2023-10-23",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "空調回風濾網清洗及出風口清潔",
+            "status": "Pending"
+        },
+        {
+            "recordSn": "I20231113001",
+            "staff": null,
+            "date": "2023-11-13",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "冰水主機清潔、冷卻水泵浦保養檢查(含加油)",
+            "status": "Pending"
+        },
+        {
+            "recordSn": "I20231120001",
+            "staff": null,
+            "date": "2023-11-20",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "空調冷卻水塔清洗(含減速機加黃油)",
+            "status": "Pending"
+        },
+        {
+            "recordSn": "I20231127001",
+            "staff": null,
+            "date": "2023-11-27",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "空調回風濾網清洗及出風口清潔",
+            "status": "Pending"
+        },
+        {
+            "recordSn": "I20231218001",
+            "staff": null,
+            "date": "2023-12-18",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "冰水主機清潔、冷卻水泵浦保養檢查(含加油)",
+            "status": "Pending"
+        },
+        {
+            "recordSn": "I20231218002",
+            "staff": null,
+            "date": "2023-12-18",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "空調冷卻水塔清洗(含減速機加黃油)",
+            "status": "Pending"
+        },
+        {
+            "recordSn": "I20231218003",
+            "staff": null,
+            "date": "2023-12-18",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "空調回風濾網清洗及出風口清潔",
+            "status": "Pending"
+        },
+        {
+            "recordSn": "I20240517001",
+            "staff": null,
+            "date": "2024-05-17",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "aaaa",
+            "status": "Pending"
+        },
+        {
+            "recordSn": "I20240517002",
+            "staff": null,
+            "date": "2024-05-17",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "bbbb",
+            "status": "Pending"
+        },
+        {
+            "recordSn": "I20240517003",
+            "staff": null,
+            "date": "2024-05-17",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Lucy測試7",
+            "status": "Pending"
+        },
+        {
+            "recordSn": "I20240524001",
+            "staff": null,
+            "date": "2024-05-24",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "WeiTest 空調箱定期簡易檢查 ",
+            "status": "Pending"
+        },
+        {
+            "recordSn": "I20240720001",
+            "staff": "insp01",
+            "date": "2024-09-18",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240720001",
+            "staff": "insp01",
+            "date": "2024-09-20",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "ok.",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240926001",
+            "staff": "insp01",
+            "date": "2024-09-26",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240926001",
+            "staff": "insp01",
+            "date": "2024-09-26",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240926002",
+            "staff": "insp01",
+            "date": "2024-09-26",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240926002",
+            "staff": "insp01",
+            "date": "2024-09-26",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240926003",
+            "staff": "insp01",
+            "date": "2024-09-26",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240926003",
+            "staff": "insp01",
+            "date": "2024-09-26",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240926004",
+            "staff": "insp01",
+            "date": "2024-09-26",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240926004",
+            "staff": "insp01",
+            "date": "2024-09-26",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240925001",
+            "staff": "insp01",
+            "date": "2024-09-27",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240925001",
+            "staff": "insp01",
+            "date": "2024-09-27",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240925002",
+            "staff": "insp01",
+            "date": "2024-09-27",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240925002",
+            "staff": "insp01",
+            "date": "2024-09-27",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240727001",
+            "staff": "insp01",
+            "date": "2024-09-30",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240727001",
+            "staff": "insp01",
+            "date": "2024-09-30",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240803001",
+            "staff": "insp01",
+            "date": "2024-09-30",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240803001",
+            "staff": "insp01",
+            "date": "2024-09-30",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240803001",
+            "staff": "insp01",
+            "date": "2024-09-30",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240802001",
+            "staff": "insp01",
+            "date": "2024-09-30",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240731001",
+            "staff": "insp01",
+            "date": "2024-09-30",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240731001",
+            "staff": "insp01",
+            "date": "2024-09-30",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240802001",
+            "staff": "insp01",
+            "date": "2024-09-30",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240801001",
+            "staff": "insp01",
+            "date": "2024-10-01",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240801001",
+            "staff": "insp01",
+            "date": "2024-10-01",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240914001",
+            "staff": "insp01",
+            "date": "2024-10-01",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240914001",
+            "staff": "insp01",
+            "date": "2024-10-01",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240921001",
+            "staff": "insp01",
+            "date": "2024-10-01",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240921001",
+            "staff": "insp01",
+            "date": "2024-10-01",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240928001",
+            "staff": "insp01",
+            "date": "2024-10-01",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240928001",
+            "staff": "insp01",
+            "date": "2024-10-01",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240930001",
+            "staff": "insp01",
+            "date": "2024-10-01",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240930001",
+            "staff": "insp01",
+            "date": "2024-10-01",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240831001",
+            "staff": "insp01",
+            "date": "2024-10-01",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240831001",
+            "staff": "insp01",
+            "date": "2024-10-01",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240806001",
+            "staff": "insp01",
+            "date": "2024-11-20",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240806001",
+            "staff": "insp01",
+            "date": "2024-11-20",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240804001",
+            "staff": "insp01",
+            "date": "2024-11-20",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240804001",
+            "staff": "insp01",
+            "date": "2024-11-20",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240805001",
+            "staff": "insp01",
+            "date": "2024-11-21",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240805001",
+            "staff": "insp01",
+            "date": "2024-11-21",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240831001",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240831001",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240926004",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240926004",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "checked",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240926004",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240926004",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240926004",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240926004",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240926004",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240926004",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240804001",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240804001",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240804001",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240804001",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240804001",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240926004",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240926004",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240804001",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240804001",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240803001",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240803001",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240803001",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240803001",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240803001",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240803001",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240803001",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240803001",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240803001",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240803001",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240803001",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240803001",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240803001",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240803001",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240803001",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240803001",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240803001",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240803001",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240803001",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240803001",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240803001",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240803001",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240803001",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240803001",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240803001",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240803001",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240803001",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240803001",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240803001",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240803001",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240803001",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240803001",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240803001",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240803001",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240803001",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240803001",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240803001",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240803001",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240803001",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240803001",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240803001",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240803001",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240803001",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240804001",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240804001",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240803001",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240803001",
+            "staff": "insp01",
+            "date": "2024-11-22",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "checked",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240926004",
+            "staff": "insp01",
+            "date": "2024-11-25",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240926004",
+            "staff": "insp01",
+            "date": "2024-11-25",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "okay",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240804001",
+            "staff": "insp01",
+            "date": "2024-11-25",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240804001",
+            "staff": "insp01",
+            "date": "2024-11-25",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "wind unusual sound",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240926004",
+            "staff": "insp01",
+            "date": "2024-11-25",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240926004",
+            "staff": "insp01",
+            "date": "2024-11-25",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "okay",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20241129001",
+            "staff": "insp01",
+            "date": "2024-11-29",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20241129001",
+            "staff": "insp01",
+            "date": "2024-11-29",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240801001",
+            "staff": "insp01",
+            "date": "2024-12-03",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240801001",
+            "staff": "insp01",
+            "date": "2024-12-03",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20240801001",
+            "staff": "insp01",
+            "date": "2024-12-03",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20240801001",
+            "staff": "insp01",
+            "date": "2024-12-03",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "重新审核",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20241006001",
+            "staff": "insp01",
+            "date": "2024-12-06",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20241006001",
+            "staff": "insp01",
+            "date": "2024-12-06",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20241206001",
+            "staff": "insp01",
+            "date": "2024-12-06",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20241206001",
+            "staff": "insp01",
+            "date": "2024-12-06",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "檢查正常",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "I20241209001",
+            "staff": "insp01",
+            "date": "2024-12-09",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "I20241209001",
+            "staff": "insp01",
+            "date": "2024-12-09",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "ok",
+            "status": "Submitted"
+        }
+    ],
+    "workOrders": [
+        {
+            "recordSn": "W20241125002",
+            "staff": "worker01",
+            "date": "2024-11-26",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "W20240319001",
+            "staff": "worker01",
+            "date": "2024-03-19",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "W20240319001",
+            "staff": "worker01",
+            "date": "2024-03-19",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "備料中",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "W20240319001",
+            "staff": "worker01",
+            "date": "2024-03-19",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "更換風扇皮帶",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "W20240328002",
+            "staff": "worker01",
+            "date": "2024-03-29",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "W20240328002",
+            "staff": "worker01",
+            "date": "2024-03-29",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "備料中",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "W20240328002",
+            "staff": "worker01",
+            "date": "2024-03-29",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "先維修另一個設備",
+            "status": "Pause"
+        },
+        {
+            "recordSn": "W20240328002",
+            "staff": "worker01",
+            "date": "2024-03-29",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "W20240328002",
+            "staff": "worker01",
+            "date": "2024-03-29",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "W20241127001",
+            "staff": "TCIT2024",
+            "date": "2024-04-01",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "檢查並更換耗材",
+            "status": "Pending"
+        },
+        {
+            "recordSn": "W20240911001",
+            "staff": "worker01",
+            "date": "2024-09-11",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "W20240911001",
+            "staff": "worker01",
+            "date": "2024-09-11",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "待料",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "W20240911001",
+            "staff": "worker01",
+            "date": "2024-09-11",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "還沒好",
+            "status": "Pause"
+        },
+        {
+            "recordSn": "W20240911001",
+            "staff": "worker01",
+            "date": "2024-09-11",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "W20240911001",
+            "staff": "worker01",
+            "date": "2024-09-11",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "W20241127002",
+            "staff": "worker01",
+            "date": "2024-11-27",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "W20241127002",
+            "staff": "worker01",
+            "date": "2024-11-27",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "停機",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "W20241127002",
+            "staff": "worker01",
+            "date": "2024-11-27",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "開工前檢查",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "W20241127002",
+            "staff": "worker01",
+            "date": "2024-11-27",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "待料",
+            "status": "Pause"
+        },
+        {
+            "recordSn": "W20241127002",
+            "staff": "worker01",
+            "date": "2024-11-27",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "W20241127002",
+            "staff": "worker01",
+            "date": "2024-11-27",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "W20241128001",
+            "staff": "worker01",
+            "date": "2024-12-06",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "W20241128001",
+            "staff": "worker01",
+            "date": "2024-12-09",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "測試",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "W20241128001",
+            "staff": "worker01",
+            "date": "2024-12-09",
+            "deviceCode": "DELTA/TP/RK2/A/B1F/EE/RK2_GP_1",
+            "content": "完工",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "W20241125002",
+            "staff": "worker01",
+            "date": "2024-11-27",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "測試",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "W20241125002",
+            "staff": "worker01",
+            "date": "2024-11-27",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "W20241128002",
+            "staff": "worker01",
+            "date": "2024-11-28",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "W20241128002",
+            "staff": "worker01",
+            "date": "2024-11-28",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "1",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "W20241128002",
+            "staff": "worker01",
+            "date": "2024-11-28",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "0",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "W20241128005",
+            "staff": "worker01",
+            "date": "2024-11-28",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "W20241128005",
+            "staff": "worker01",
+            "date": "2024-11-28",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "1",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "W20241128005",
+            "staff": "worker01",
+            "date": "2024-11-28",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "2",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "W20241128005",
+            "staff": "worker01",
+            "date": "2024-11-28",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "2",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "W20241128005",
+            "staff": "worker01",
+            "date": "2024-11-28",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "1",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "W20241128005",
+            "staff": "worker01",
+            "date": "2024-11-29",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "W20241129001",
+            "staff": "worker01",
+            "date": "2024-11-29",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "W20241129001",
+            "staff": "worker01",
+            "date": "2024-11-29",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "W20241129002",
+            "staff": "worker01",
+            "date": "2024-11-29",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "W20241129002",
+            "staff": "worker01",
+            "date": "2024-11-29",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "W20241204001",
+            "staff": "worker01",
+            "date": "2024-12-04",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "W20241204001",
+            "staff": "worker01",
+            "date": "2024-12-06",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "test",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "W20241204001",
+            "staff": "worker01",
+            "date": "2024-12-06",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "test",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "W20241204001",
+            "staff": "worker01",
+            "date": "2024-12-06",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "s",
+            "status": "Pause"
+        },
+        {
+            "recordSn": "W20241204001",
+            "staff": "worker01",
+            "date": "2024-12-06",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "W20241204001",
+            "staff": "worker01",
+            "date": "2024-12-06",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "ok",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "W20241206001",
+            "staff": "worker01",
+            "date": "2024-12-06",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "W20241206001",
+            "staff": "worker01",
+            "date": "2024-12-06",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "停機",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "W20241206001",
+            "staff": "worker01",
+            "date": "2024-12-06",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "備料",
+            "status": "Pause"
+        },
+        {
+            "recordSn": "W20241206001",
+            "staff": "worker01",
+            "date": "2024-12-06",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "W20241206001",
+            "staff": "worker01",
+            "date": "2024-12-06",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "已修復完畢請再次確認",
+            "status": "Submitted"
+        },
+        {
+            "recordSn": "W20241209001",
+            "staff": "worker01",
+            "date": "2024-12-09",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Start",
+            "status": "Processing"
+        },
+        {
+            "recordSn": "W20241209001",
+            "staff": "worker01",
+            "date": "2024-12-09",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "ok",
+            "status": "Submitted"
+        }
+    ],
+    "alarms": [
+        {
+            "recordSn": "CV_FB",
+            "staff": "SYS",
+            "date": "2024-03-06",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Alarm",
+            "status": "Abnormal"
+        },
+        {
+            "recordSn": "OADMP_FB",
+            "staff": "SYS",
+            "date": "2024-03-06",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Alarm",
+            "status": "Abnormal"
+        },
+        {
+            "recordSn": "ECFAN_OUT",
+            "staff": "SYS",
+            "date": "2024-03-06",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Alarm",
+            "status": "Abnormal"
+        },
+        {
+            "recordSn": "CV_OUT",
+            "staff": "SYS",
+            "date": "2024-03-06",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Alarm",
+            "status": "Abnormal"
+        },
+        {
+            "recordSn": "OADMP_OUT",
+            "staff": "SYS",
+            "date": "2024-03-06",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Alarm",
+            "status": "Abnormal"
+        },
+        {
+            "recordSn": "RACO2_PV",
+            "staff": "SYS",
+            "date": "2024-03-06",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Alarm",
+            "status": "Abnormal"
+        },
+        {
+            "recordSn": "ADPS_ALM",
+            "staff": "SYS",
+            "date": "2024-03-09",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Alarm",
+            "status": "Abnormal"
+        },
+        {
+            "recordSn": "ECFAN_SPEED_PV",
+            "staff": "SYS",
+            "date": "2024-03-21",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Alarm",
+            "status": "Abnormal"
+        },
+        {
+            "recordSn": "ECFAN_IDC_PV",
+            "staff": "SYS",
+            "date": "2024-03-21",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Alarm",
+            "status": "Abnormal"
+        },
+        {
+            "recordSn": "ECFAN_POWER_PV",
+            "staff": "SYS",
+            "date": "2024-03-21",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Alarm",
+            "status": "Abnormal"
+        },
+        {
+            "recordSn": "ECFAN_TEMPER_PV",
+            "staff": "SYS",
+            "date": "2024-03-21",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Alarm",
+            "status": "Abnormal"
+        },
+        {
+            "recordSn": "ECFAN_VDC_PV",
+            "staff": "SYS",
+            "date": "2024-03-21",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Alarm",
+            "status": "Abnormal"
+        },
+        {
+            "recordSn": "ADPS",
+            "staff": "SYS",
+            "date": "2024-10-16",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Alarm",
+            "status": "Abnormal"
+        },
+        {
+            "recordSn": "RACO2_PV",
+            "staff": "SYS",
+            "date": "2024-10-16",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Alarm",
+            "status": "Abnormal"
+        },
+        {
+            "recordSn": "RADMP_OP_STA",
+            "staff": "SYS",
+            "date": "2024-10-16",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Alarm",
+            "status": "Abnormal"
+        },
+        {
+            "recordSn": "ECFAN_SPEED_PV",
+            "staff": "SYS",
+            "date": "2024-10-16",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Alarm",
+            "status": "Abnormal"
+        },
+        {
+            "recordSn": "ECFAN_POWER_PV",
+            "staff": "SYS",
+            "date": "2024-10-16",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Alarm",
+            "status": "Abnormal"
+        },
+        {
+            "recordSn": "RAT_PV",
+            "staff": "SYS",
+            "date": "2024-10-16",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Alarm",
+            "status": "Abnormal"
+        },
+        {
+            "recordSn": "SMD",
+            "staff": "SYS",
+            "date": "2024-10-16",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Alarm",
+            "status": "Abnormal"
+        },
+        {
+            "recordSn": "ECFAN_ALM_STATUS",
+            "staff": "SYS",
+            "date": "2024-10-16",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Alarm",
+            "status": "Abnormal"
+        },
+        {
+            "recordSn": "EADMP_OP_STA",
+            "staff": "SYS",
+            "date": "2024-10-16",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Alarm",
+            "status": "Abnormal"
+        },
+        {
+            "recordSn": "ECFAN_IDC_PV",
+            "staff": "SYS",
+            "date": "2024-10-16",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Alarm",
+            "status": "Abnormal"
+        },
+        {
+            "recordSn": "CV_FB",
+            "staff": "SYS",
+            "date": "2024-10-16",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Alarm",
+            "status": "Abnormal"
+        },
+        {
+            "recordSn": "FDPS",
+            "staff": "SYS",
+            "date": "2024-10-16",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Alarm",
+            "status": "Abnormal"
+        },
+        {
+            "recordSn": "ADPS_ALM",
+            "staff": "SYS",
+            "date": "2024-10-16",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Alarm",
+            "status": "Abnormal"
+        },
+        {
+            "recordSn": "ECFAN_OUT",
+            "staff": "SYS",
+            "date": "2024-10-16",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Alarm",
+            "status": "Abnormal"
+        },
+        {
+            "recordSn": "ADPS",
+            "staff": "SYS",
+            "date": "2024-10-16",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Alarm",
+            "status": "Abnormal"
+        },
+        {
+            "recordSn": "ECFAN_TEMPER_PV",
+            "staff": "SYS",
+            "date": "2024-10-16",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Alarm",
+            "status": "Abnormal"
+        },
+        {
+            "recordSn": "OADMP_OUT",
+            "staff": "SYS",
+            "date": "2024-10-16",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Alarm",
+            "status": "Abnormal"
+        },
+        {
+            "recordSn": "ECFAN_VDC_PV",
+            "staff": "SYS",
+            "date": "2024-10-16",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Alarm",
+            "status": "Abnormal"
+        },
+        {
+            "recordSn": "CV_OUT",
+            "staff": "SYS",
+            "date": "2024-10-16",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Alarm",
+            "status": "Abnormal"
+        },
+        {
+            "recordSn": "OADMP_FB",
+            "staff": "SYS",
+            "date": "2024-10-16",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Alarm",
+            "status": "Abnormal"
+        },
+        {
+            "recordSn": "SCH_ENABLE",
+            "staff": "SYS",
+            "date": "2024-10-16",
+            "deviceCode": "DELTA/TP/RK2/A/1F/HVAC/AHU_01F01",
+            "content": "Alarm",
+            "status": "Abnormal"
+        }
+    ]
+}
